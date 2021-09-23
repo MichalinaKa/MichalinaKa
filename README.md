@@ -3,7 +3,7 @@
 ## I'm Michalina 
 
 
-I'm a **creative frontend developer** and **aspiring web designer**.\
+I'm a **creative frontend developer** and **aspiring web designer**.
 
 Currently, I work at WebCommitment where I'm a Web Developer and in INCO Academy where I'm working as trainer / process facilitator. 
 
