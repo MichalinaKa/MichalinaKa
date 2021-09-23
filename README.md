@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+I'm a creative frontend developer and aspiring web deigner. Currently, I work at WebCommitment where I'm a Web Developer and in INCO Academy where I'm working as . Feel free to ping me at any of my social media listed below 👇
+
+
 <!--
 **MichalinaKa/MichalinaKa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
