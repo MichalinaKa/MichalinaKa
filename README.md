@@ -3,7 +3,9 @@
 ## I'm Michalina 
 
 
-I'm a **creative frontend developer** and **aspiring web designer**. Currently, I work at WebCommitment where I'm a Web Developer and in INCO Academy where I'm working as trainer / process facilitator. 
+I'm a **creative frontend developer** and **aspiring web designer**.\
+
+Currently, I work at WebCommitment where I'm a Web Developer and in INCO Academy where I'm working as trainer / process facilitator. 
 
 - 🔭 I’m familiar with **HTML, CSS, Sass, basic JavaScript, Wordpress, Gatsby, headles CMS (Wordpress + Gatsby)**.
  - 🌱 I’m currently learning **React and Gatsby.*
