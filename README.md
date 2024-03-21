@@ -5,7 +5,7 @@
 
 I'm a **creative frontend developer** and **aspiring web designer**.
 
-Currently, I work at WebCommitment where I'm a Web Developer and in INCO Academy where I'm working as trainer / process facilitator. 
+Currently, I work as front-end developer and  as tech&soft skilss trainer. 
 
 - 🔭 I’m familiar with **HTML, CSS, Sass, basic JavaScript, Wordpress, Gatsby, headles CMS (Wordpress + Gatsby), Markdown**.
  - 🌱 I’m currently learning **React and Gatsby.*
